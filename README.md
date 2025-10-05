@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ozandundar](https://www.linkedin.com/in/ozan-d%C3%BCndar-b7299a151/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ozan-d%C3%BCndar-b7299a151" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ozan.dundar97@gmail.com">
