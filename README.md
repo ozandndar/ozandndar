@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozandundar" target="_blank">
+  <a href="[https://www.linkedin.com/in/ozandundar](https://www.linkedin.com/in/ozan-d%C3%BCndar-b7299a151/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ozandundar@gmail.com">
+  <a href="mailto:ozan.dundar97@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ozandndar&color=blue&style=for-the-badge" />
@@ -70,24 +70,3 @@
 
 ---
 
-### 🕐 Activity Graph  
-
-![Ozan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozandndar&theme=react-dark)
-
----
-
-### ✍️ Fun Section  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Building+cool+things+with+Node.js;Exploring+AI+models+%F0%9F%A4%96;Making+games+for+fun+%F0%9F%8E%AE;Always+learning+something+new+%F0%9F%92%A1" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-
-![snake gif](https://github.com/ozandndar/ozandndar/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">💬 Let’s connect and build something great together!</p>
