@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Ozan Dündar</h1>
+<h1 align="center">Hi there, I'm Ozan</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | 🧠 AI Engineer in Progress | 🎮 Game Dev Hobbyist
